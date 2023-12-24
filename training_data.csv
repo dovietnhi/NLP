@@ -1,0 +1,248 @@
+question,intent,entity,answer
+Thủ đô của Việt Nam là gì?,capital_city,Vietnam,Hà Nội là thủ đô của Việt Nam.
+Pháp có thủ đô là gì?,capital_city,France,Paris là thủ đô của Pháp.
+Sông lớn nhất ở Ai Cập là gì?,largest_river,Egypt,Sông Nile là con sông lớn nhất tại Ai Cập.
+Dãy núi nào là lớn nhất thế giới?,mountain_range,Himalayas,Dãy núi Himalaya là một trong những dãy núi lớn nhất thế giới.
+Đơn vị tiền tệ của Nhật Bản là gì?,currency,Japan,Yên là đơn vị tiền tệ của Nhật Bản.
+Thủ đô của Phần Lan là gì?,capital_city,Finland,Helsinki là thủ đô của Phần Lan.
+Sông nào là dài nhất ở Mỹ?,longest_river,United States,Mississippi là con sông dài nhất ở Mỹ.
+Dãy núi Rocky nằm ở đâu?,mountain_range,North America,Dãy núi Rocky nằm ở Bắc Mỹ.
+Tiền tệ của Úc là gì?,currency,Australia,Đô la Australia là đơn vị tiền tệ của Úc.
+Thành phố nào là thủ đô của Ý?,capital_city,Italy,Rome là thủ đô của Ý.
+Cao nguyên nào là lớn nhất thế giới?,largest_plateau,Tibet,Cao nguyên Tibet là cao nguyên lớn nhất thế giới.
+Đơn vị tiền tệ của Hàn Quốc là gì?,currency,South Korea,Đồng là đơn vị tiền tệ của Hàn Quốc.
+Thủ đô của Brazil là gì?,capital_city,Brazil,Brasília là thủ đô của Brazil.
+Dãy núi nào nằm ở biên giới giữa Úc và New Zealand?,mountain_range,Australia,Alps Australia là dãy núi nằm ở biên giới giữa Úc và New Zealand.
+Sông nào chảy qua thủ đô Paris?,major_river,France,Sông Seine chảy qua thủ đô Paris.
+Dãy núi nào nằm ở biên giới giữa Nepal và Trung Quốc?,mountain_range,Nepal,Himalaya là dãy núi nằm ở biên giới giữa Nepal và Trung Quốc.
+Thành phố nào là trung tâm tài chính của Nhật Bản?,financial_center,Japan,Tokyo là trung tâm tài chính của Nhật Bản.
+Sông nào là con sông dài nhất thế giới?,longest_river,Worldwide,Sông Amazon là con sông dài nhất thế giới.
+Cao nguyên nào là nơi sinh sống của bản dân tộc Tây Tạng?,plateau,Tibet,Cao nguyên Tây Tạng là nơi sinh sống của bản dân tộc Tây Tạng.
+Con sông dài nhất ở Vương quốc Anh là gì?,longest_river,United Kingdom,Sông Severn dài nhất Anh.
+Thực vật nào sản xuất năng lượng thông qua quang hợp?,biology,Plants,Thực vật sản xuất năng lượng thông qua quang hợp trong quá trình này chúng sử dụng ánh sáng mặt trời để tạo năng lượng từ CO2 và nước.
+Nhân vật chính trong tiểu thuyết "Harry Potter" là ai?,literature,Harry Potter,Harry Potter là nhân vật chính trong loạt tiểu thuyết của J.K. Rowling.
+Thành phố nào là trung tâm tài chính của thế giới?,finance,Worldwide,Thành phố New York là trung tâm tài chính của thế giới với tầm quan trọng của Quận Tài chính Manhattan.
+Ngôn ngữ lập trình Python là gì?,programming,Python,Python là một ngôn ngữ lập trình thông dịch dễ đọc và dễ hiểu.
+Đỉnh núi Everest thuộc quốc gia nào?,geography,Nepal,Everest nằm ở biên giới giữa Nepal và Trung Quốc.
+Ai là người sáng tạo ra máy tính cá nhân đầu tiên?,technology,Worldwide,Charles Babbage được coi là người sáng tạo ra máy tính cá nhân đầu tiên.
+Loài vật nào là loài động vật nhanh nhất trên cạn?,biology,Worldwide,Châu chấu nhanh nhất trên cạn có thể di chuyển với tốc độ lên đến 70 cm/giây.
+Bộ phim nào là phim có doanh thu cao nhất mọi thời đại?,movies,Worldwide,Bộ phim "Avatar" của đạo diễn James Cameron là phim có doanh thu cao nhất mọi thời đại.
+Thành phố nào được gọi là "Thành phố không bao giờ ngủ"?,nickname,New York,Thành phố New York được gọi là "Thành phố không bao giờ ngủ" do hoạt động sôi nổi 24/7.
+Nguyên tắc hoạt động của động cơ xăng là gì?,engineering,Internal Combustion Engine,Động cơ xăng hoạt động dựa trên nguyên tắc đốt cháy nhiên liệu trong không khí.
+Bảo tàng nổi tiếng nào tại Paris?,tourist_attraction,Paris,Musée du Louvre là một trong những bảo tàng nổi tiếng tại Paris.
+Phương trình Einstein là gì?,physics,Theory of Relativity,Phương trình E=mc^2 là một phần của Thuyết tương đối của Albert Einstein.
+Ngày lễ nào được tổ chức vào ngày 1 tháng 1 hàng năm?,celebration,Worldwide,Ngày Tết Dương lịch là ngày lễ được tổ chức vào ngày 1 tháng 1 hàng năm trên toàn thế giới.
+Nhà thầu xây dựng nổi tiếng nào đã xây dựng Tháp Eiffel?,architecture,Gustave Eiffel,Gustave Eiffel là nhà thầu xây dựng nổi tiếng đã xây dựng Tháp Eiffel.
+Nơi nào là đỉnh cao nhất thế giới?,geography,Worldwide,Núi Everest ở dãy núi Himalaya là đỉnh cao nhất thế giới.
+Bộ phim nào đoạt giải Oscar cho Phim Xuất sắc nhất năm 2020?,movies,Worldwide,Bộ phim "Parasite" đã đoạt giải Oscar cho Phim Xuất sắc nhất năm 2020.
+Thực phẩm nào nổi tiếng ở Ý?,cuisine,Italy,Pasta và pizza là những món thực phẩm nổi tiếng của Ý.
+Nghệ sĩ nào là tác giả của bức tranh "Mona Lisa"?,art,Leonardo da Vinci,Leonardo da Vinci là nghệ sĩ tạo ra bức tranh "Mona Lisa".
+Động vật nào có thể bay?,biology,Worldwide,Châu chấu là một trong những loài động vật có khả năng bay.
+Nhà văn nào viết cuốn tiểu thuyết "To Kill a Mockingbird"?,literature,Harper Lee,"To Kill a Mockingbird" được viết bởi Harper Lee.
+Phần mềm nào được sử dụng để soạn thảo văn bản?,software,Word processing,Microsoft Word là một phần mềm soạn thảo văn bản phổ biến.
+Dòng sông nào chảy qua thủ đô Paris?,geography,France,Sông Seine chảy qua thủ đô Paris.
+Các hành tinh thuộc hệ Mặt Trời có bao nhiêu?,astronomy,Solar System,Hệ Mặt Trời có 8 hành tinh.
+Nhân vật nào là người chính trong bộ phim "The Shawshank Redemption"?,movies,Andy Dufresne,Andy Dufresne là nhân vật chính trong "The Shawshank Redemption".
+Người nào là nhà khoa học nổi tiếng về lý thuyết quốc tế?,physics,Albert Einstein,Albert Einstein là một nhà khoa học nổi tiếng về lý thuyết quốc tế.
+Đội bóng nào đã giành chiến thắng FIFA World Cup 2018?,sports,Worldwide,Đội tuyển bóng đá quốc gia Pháp đã giành chiến thắng FIFA World Cup 2018.
+Nhân vật nào được biết đến là "Người dơi"?,fictional_character,DC Comics,Batman là nhân vật được biết đến là "Người dơi" trong truyện tranh của DC Comics.
+Ngôn ngữ lập trình nào được sử dụng rộng rãi cho phát triển web?,programming,Web Development,Ngôn ngữ lập trình JavaScript được sử dụng rộng rãi cho phát triển web.
+Nơi nào là nguồn gốc của cà phê?,geography,Ethiopia,Cà phê được cho là có nguồn gốc từ Ethiopia.
+Nghệ sĩ nào nổi tiếng với bức tranh "Starry Night"?,art,Vincent van Gogh,Vincent van Gogh là nghệ sĩ nổi tiếng với bức tranh "Starry Night".
+Thành phố nào được gọi là "Thủ đô văn hóa" của Thế giới?,culture,Worldwide,Thành phố Kyoto ở Nhật Bản được gọi là "Thủ đô văn hóa" của Thế giới.
+Các phân loại chính của hệ Mặt Trời là gì?,astronomy,Solar System,Hệ Mặt Trời được phân loại thành các hành tinh mặt trời và vật thể thiên thạch khác.
+Nhà khoa học nào đã đề xuất lý thuyết về tổ tiên chung?,biology,Charles Darwin,Charles Darwin đã đề xuất lý thuyết về tổ tiên chung trong cuộc đua tiến hóa.
+Dòng sông nào là dài nhất thế giới?,geography,Worldwide,Sông Nile là dòng sông dài nhất thế giới.
+Bộ phim "Inception" là tác phẩm của đạo diễn nào?,movies,Christopher Nolan,"Inception" là một bộ phim của đạo diễn Christopher Nolan.
+Các loại đám mây nền tảng là gì?,technology,Cloud Computing,Các loại đám mây nền tảng bao gồm Public Cloud Private Cloud và Hybrid Cloud.
+Ai là người sáng lập Microsoft?,technology,Microsoft,Bill Gates và Paul Allen là người sáng lập Microsoft.
+Bộ phim nào đoạt giải Oscar cho Phim Xuất sắc nhất năm 2021?,movies,Worldwide,Bộ phim "Nomadland" đã đoạt giải Oscar cho Phim Xuất sắc nhất năm 2021.
+Nền văn hóa nào được đại diện bởi Kimono và Chado?,culture,Japan,Kimono và Chado đại diện cho nền văn hóa của Nhật Bản.
+Thành phố nào được gọi là "Thủ đô của thế giới doanh nghiệp"?,business,Worldwide,Thành phố New York thường được gọi là "Thủ đô của thế giới doanh nghiệp".
+Loại hình nghệ thuật nào sử dụng cả âm thanh và hình ảnh để truyền đạt thông điệp?,art,Audio-Visual Art,Nghệ thuật Âm thanh - Hình ảnh sử dụng cả âm thanh và hình ảnh để truyền đạt thông điệp.
+Năm nào được xem là năm bắt đầu của thế kỷ 21?,history,Worldwide,Năm 2001 được xem là năm bắt đầu của thế kỷ 21 theo chuẩn quốc tế.
+Loại đá nào là biểu tượng quý giá của tháng 4?,gemstone,April,Diamond là loại đá biểu tượng quý giá của tháng 4.
+Ai là tác giả của bộ tiểu thuyết "1984"?,literature,George Orwell,George Orwell là tác giả của bộ tiểu thuyết "1984".
+Nghệ sĩ nào được biết đến với tác phẩm "The Persistence of Memory"?,art,Salvador Dalí,Salvador Dalí là nghệ sĩ tạo ra tác phẩm "The Persistence of Memory".
+Ngày nào được coi là Ngày Dân số Thế giới?,world_population,Worldwide,Ngày 11 tháng 7 được coi là Ngày Dân số Thế giới.
+Nghệ sĩ nào nổi tiếng với bức tranh "The Starry Night"?,art,Vincent van Gogh,Vincent van Gogh là nghệ sĩ tạo ra bức tranh "The Starry Night".
+Thành phố nào được gọi là "Thành phố Ánh sáng"?,nickname,France,Paris được gọi là "Thành phố Ánh sáng" do ánh sáng đêm động lòng du khách.
+Loại cây nào sản xuất quả màu đỏ đen được sử dụng để làm rượu vang?,wine,Grapes,Cây nho (Grapes) sản xuất quả màu đỏ đen được sử dụng để làm rượu vang đỏ.
+Động vật nào có thể quay đầu 180 độ?,biology,Worldwide,Châu chấu có khả năng quay đầu 180 độ.
+Ai là nhà sáng lập Facebook?,technology,Facebook,Mark Zuckerberg là nhà sáng lập Facebook.
+Nhân vật nào nổi tiếng với câu nói "May the Force be with you"?,movies,Star Wars,Franchise Star Wars câu nói "May the Force be with you" thường được sử dụng bởi nhân vật Obi-Wan Kenobi.
+Bức tượng nào nằm ở thành phố Rio de Janeiro và trở thành biểu tượng nổi tiếng của Brazil?,landmark,Brazil,Được biết đến như "Đức Mẹ Thiên Chúa" hoặc "Bức tượng Chúa Kitô Đứng" tượng nằm ở tháp Corcovado thành phố Rio de Janeiro Brazil.
+Nhà nước nào có diện tích lớn nhất trên thế giới?,geography,Russia,Nga là quốc gia có diện tích lớn nhất trên thế giới.
+Bộ phim nào được biết đến với câu nói "Life is like a box of chocolates."?,movies,Forrest Gump,"Forrest Gump" là bộ phim được biết đến với câu nói "Life is like a box of chocolates."
+Loài vật nào có khả năng bay ngược?,biology,Worldwide,Châu chấu là một trong những loài vật có khả năng bay ngược.
+Nền văn hóa nào được đại diện bởi kimono và cha-no-yu?,culture,Japan,Kimono và Cha-no-yu (nghi thức trà) đại diện cho nền văn hóa của Nhật Bản.
+Bác sĩ nổi tiếng nào đã phát hiện ra penicillin?,medicine,Alexander Fleming,Alexander Fleming là bác sĩ nổi tiếng đã phát hiện ra penicillin.
+Quốc gia nào nằm ở châu lục cả hai bán cầu?,geography,Worldwide,Brazil là quốc gia duy nhất nằm ở cả hai bán cầu - Nam và Bắc.
+Nghệ sĩ nào được biết đến với tác phẩm "Guernica"?,art,Pablo Picasso,Pablo Picasso là nghệ sĩ tạo ra tác phẩm "Guernica."
+Thành phố nào được gọi là "Thành phố của những con sông"?,nickname,Paris,Thành phố Paris được gọi là "Thành phố của những con sông" do sông Seine chảy qua.
+Ai là nhà sáng tạo của kiểu máy tính đầu tiên?,technology,Charles Babbage,Charles Babbage được coi là nhà sáng tạo của kiểu máy tính đầu tiên.
+Bộ phim "Inception" là của đạo diễn nào?,movies,Christopher Nolan,"Inception" là một bộ phim của đạo diễn Christopher Nolan.
+Bộ phim nào đã đoạt giải Oscar cho Phim Xuất sắc nhất năm 2022?,movies,Worldwide,"CODA" là bộ phim đoạt giải Oscar cho Phim Xuất sắc nhất năm 2022.
+Người nổi tiếng nào đã nói câu nói "I think, therefore I am."?,philosophy,René Descartes René Descartes là người nổi tiếng đã nói câu nói "I think therefore I am."
+Quốc gia nào nằm ở cả hai lục địa Châu Á và Châu Âu?,geography,Turkey,Thổ Nhĩ Kỳ là quốc gia nằm ở cả hai lục địa Châu Á và Châu Âu.
+Nghệ sĩ nào nổi tiếng với album "Thriller"?,music,Michael Jackson,Michael Jackson là nghệ sĩ nổi tiếng với album "Thriller."
+Dòng sông nào là dài nhất thế giới?,geography,Worldwide,Sông Amazon là dòng sông dài nhất thế giới.
+Thành phố nào được gọi là "Thủ đô Dương cơ của thế giới"?,nickname,Beijing,Thành phố Beijing được gọi là "Thủ đô Dương cơ của thế giới."
+Nhà khoa học nào đã phát hiện ra cấu trúc ADN?,science,James Watson và Francis Crick,James Watson và Francis Crick là nhà khoa học đã phát hiện ra cấu trúc ADN.
+Ai là nhà sáng tạo của hệ điều hành Windows?,technology,Microsoft,Bill Gates là nhà sáng tạo của hệ điều hành Windows.
+Phố Wall nằm ở thành phố nào?,finance,New York,Phố Wall nằm ở thành phố New York và là trung tâm tài chính nổi tiếng.
+Nhà khoa học nào đã đặt nền móng cho lý thuyết tư duy máy tính?,computer_science,Alan Turing,Alan Turing là nhà khoa học đã đặt nền móng cho lý thuyết tư duy máy tính.
+Loài cây nào sản xuất hạt cà phê?,agriculture,Worldwide,Cây cà phê sản xuất hạt cà phê.
+Quốc gia nào nằm ở bán đảo Skandinavia?,geography,Nordic Countries,Quốc gia nằm ở bán đảo Skandinavia bao gồm Thụy Điển Na Uy và Đan Mạch.
+Bộ phim nào là bộ phim đầu tiên trong vũ trụ điện ảnh Marvel?,movies,Marvel Cinematic Universe,"Iron Man" là bộ phim đầu tiên trong vũ trụ điện ảnh Marvel (MCU).
+Nghệ sĩ nào nổi tiếng với tác phẩm "The Persistence of Memory"?,art,Salvador Dalí,Salvador Dalí là nghệ sĩ tạo ra tác phẩm "The Persistence of Memory."
+Nền văn hóa nào đã đặt nền móng cho nghệ thuật sushi?,culture,Japan,Nền văn hóa của Nhật Bản đã đặt nền móng cho nghệ thuật sushi.
+Ai là tác giả của "Romeo và Juliet"?,literature,William Shakespeare,William Shakespeare là tác giả của "Romeo và Juliet."
+Ngôn ngữ lập trình nào thường được sử dụng cho phát triển trang web?,programming,Web Development,Ngôn ngữ lập trình JavaScript thường được sử dụng cho phát triển trang web.
+Quốc gia nào nằm ở khu vực "Down Under"?,geography,Australia,Australia thường được gọi là "Down Under" do nằm ở phía nam cực.
+Nước nào nổi tiếng với thác nước Niagara?,geography,Canada,Canada và Hoa Kỳ đều có phần lãnh thổ giữa thác nước Niagara nổi tiếng.
+Bác sĩ nào đã phát hiện ra vắc xin phòng ngừa bệnh lao?,medicine,Albert Calmette,Albert Calmette là bác sĩ đã phát hiện ra vắc xin phòng ngừa bệnh lao.
+Nhà văn nào viết cuốn sách "Những người khốn khổ"?,literature,Charles Dickens,Charles Dickens là nhà văn đã viết cuốn sách "Những người khốn khổ."
+Núi nào là núi cao nhất thế giới?,geography,Worldwide,Núi Everest là núi cao nhất thế giới nằm ở dãy núi Himalaya.
+Nghệ sĩ nào nổi tiếng với bức tranh "Mona Lisa"?,art,Leonardo da Vinci,Leonardo da Vinci là nghệ sĩ tạo ra bức tranh "Mona Lisa."
+Quốc gia nào nằm ở cực Bắc nhất thế giới?,geography,Norway,Svalbard một phần của Na Uy nằm ở cực Bắc nhất thế giới.
+Loài động vật nào có khả năng bay dài nhất?,biology,Worldwide,Chuồn chuồn có khả năng bay dài nhất trong số các loài động vật.
+Bộ phim nào đạt doanh thu cao nhất mọi thời đại?,movies,Worldwide,"Avatar" là bộ phim đạt doanh thu cao nhất mọi thời đại.
+Thành phố nào được gọi là "Thủ đô ánh sáng"?,nickname,France,Paris được gọi là "Thủ đô ánh sáng" do vị trí quan trọng của nó trong lịch sử văn hóa và giáo dục.
+Quốc gia nào là quê hương của bộ môn Judo?,sports,Japan,Quốc gia nào là quê hương của bộ môn Judo? - Đó là Nhật Bản.
+Nhà khoa học nào đã đặt ra Định luật Ba-nơ-i-tơ về chuyển động?,physics,Isaac Newton,Định luật Ba-nơ-i-tơ về chuyển động được đặt ra bởi nhà khoa học nổi tiếng Isaac Newton.
+Bức tượng nào được coi là biểu tượng tự do và độc lập tại Hoa Kỳ?,landmark,United States,Bức tượng Tự do là biểu tượng của tự do và độc lập tại Hoa Kỳ.
+Loài chim nào có khả năng hát cao nhất?,biology,Worldwide,Chim sẻ có khả năng hát cao nhất trong số các loài chim.
+Tác phẩm "Romeo và Juliet" là của tác giả nào?,literature,William Shakespeare,Tác phẩm "Romeo và Juliet" được viết bởi tác giả nổi tiếng William Shakespeare.
+Thành phố nào được gọi là "Thủ đô ngôn ngữ thế giới"?,nickname,United Kingdom,London được gọi là "Thủ đô ngôn ngữ thế giới" vì tiếng Anh là ngôn ngữ chính thức và phổ biến tại đây.
+Quốc gia nào nằm ở cực Nam của châu Phi?,geography,South Africa,Quốc gia nằm ở cực Nam của châu Phi là Nam Phi.
+Bộ phim nào đoạt giải Oscar cho Phim Xuất sắc nhất năm 2021?,movies,Worldwide,Bộ phim "Nomadland" đoạt giải Oscar cho Phim Xuất sắc nhất năm 2021.
+Nghệ sĩ nào nổi tiếng với tác phẩm "The Starry Night"?,art,Vincent van Gogh,Vincent van Gogh là nghệ sĩ tạo ra tác phẩm "The Starry Night."
+Quốc gia nào có diện tích đất lớn nhất thế giới?,geography,Russia,Nga là quốc gia có diện tích đất lớn nhất thế giới.
+Nhà văn nào viết tác phẩm "Đi tìm lẽ sống"?,literature,Ernest Hemingway,Ernest Hemingway là nhà văn đã viết tác phẩm "Đi tìm lẽ sống."
+Loài động vật nào được biết đến với bộ não lớn nhất trong các loài động vật trên trái đất?,biology,Worldwide,Loài voi có bộ não lớn nhất trong các loài động vật trên trái đất.
+Quốc gia nào nổi tiếng với tháp Eiffel?,landmark,France,Tháp Eiffel nằm tại thủ đô Paris của Pháp.
+Ai là người sáng lập Microsoft?,technology,Bill Gates,Bill Gates là người sáng lập Microsoft.
+Bức tranh nào nổi tiếng với nụ cười bí ẩn?,art,Leonardo da Vinci,Bức tranh "Mona Lisa" của Leonardo da Vinci nổi tiếng với nụ cười bí ẩn.
+Nước nào nằm ở châu lục cả hai bán cầu?,geography,Brazil,Brazil là quốc gia nằm ở cả hai bán cầu - Nam và Bắc.
+Đội tuyển bóng đá nào đã giành World Cup nhiều nhất?,sports,Worldwide,Brazil là đội tuyển bóng đá đã giành nhiều lần World Cup nhất.
+Ngôn ngữ nào được sử dụng phổ biến nhất trên thế giới?,language,Worldwide,Tiếng Trung là ngôn ngữ được sử dụng phổ biến nhất trên thế giới.
+Dãy núi nào là dãy núi cao nhất thế giới?,geography,Himalayas,Dãy núi Himalayas là dãy núi cao nhất thế giới.
+Bác sĩ nào đã phát hiện ra penicillin?,medicine,Alexander Fleming,Alexander Fleming là bác sĩ đã phát hiện ra penicillin.
+Quốc gia nào nổi tiếng với những tòa lâu đài như Neuschwanstein?,landmark,Germany,Đức nổi tiếng với những tòa lâu đài như Neuschwanstein.
+Nhà nước Vatican nằm ở đâu?,geography,Italy,Nhà nước Vatican nằm trong lãnh thổ của Italy.
+Nghệ sĩ nào được biết đến với kiểu tranh "sáng tạo tích cực" (positive art)?,art,Frida Kahlo,Frida Kahlo được biết đến với kiểu tranh "sáng tạo tích cực."
+Quốc gia nào có diện tích đất nhỏ nhất thế giới?,geography,Monaco,Monaco có diện tích đất nhỏ nhất thế giới.
+Nobel Peace Prize được trao hàng năm ở thành phố nào?,award,Oslo,Nobel Peace Prize được trao hàng năm tại Oslo Na Uy.
+Ai là người đầu tiên bước chân lên mặt trăng?,space,Neil Armstrong,Neil Armstrong là người đầu tiên bước chân lên mặt trăng.
+Quốc gia nào nằm ở cực Nam của châu Phi?,geography,South Africa,Quốc gia nằm ở cực Nam của châu Phi là Nam Phi.
+Ai là nhà khoa học nổi tiếng với lý thuyết tương đối?,physics,Albert Einstein,Albert Einstein là nhà khoa học nổi tiếng với lý thuyết tương đối.
+Quốc gia nào nổi tiếng với vịt hóa vàng?,geography,Indonesia,Indonesia nổi tiếng với vịt hóa vàng.
+Ngôi đền nào là một trong Bảy kỳ quan thế giới cổ đại?,landmark,Egypt,Đền Artemis ở Ephesus là một trong Bảy kỳ quan thế giới cổ đại.
+Nhà văn nào viết tiểu thuyết "Người Hobbit"?,literature,J.R.R. Tolkien,J.R.R. Tolkien là nhà văn viết tiểu thuyết "Người Hobbit."
+Ai là người sáng tạo của Facebook?,technology,Mark Zuckerberg,Mark Zuckerberg là người sáng tạo của Facebook.
+Nước nào nổi tiếng với những hòn đảo Galápagos?,geography,Ecuador,Nước Ecuador nổi tiếng với những hòn đảo Galápagos.
+Loài động vật nào có chiều dài lớn nhất trên Trái Đất?,biology,Blue Whale,Chuồn chuồn là loài động vật có chiều dài lớn nhất trong số các loài.
+Bức tranh nào nổi tiếng với phong cách chủ nghĩa hiện đại và sáng tạo?,art,Pablo Picasso,Bức tranh "Đàn bà hồi hộp" của Pablo Picasso nổi tiếng với phong cách chủ nghĩa hiện đại và sáng tạo.
+Dãy núi nào chứa núi lửa Vesuvius nổi tiếng?,geography,Italy,Dãy núi Alps chứa núi lửa Vesuvius ở Ý.
+Nhà khoa học nào đã đề xuất mô hình cấu trúc ADN?,science,James Watson và Francis Crick,James Watson và Francis Crick đã đề xuất mô hình cấu trúc ADN.
+Quốc gia nào nổi tiếng với đảo Santorini?,geography,Greece,Hy Lạp nổi tiếng với đảo Santorini.
+Loài vật nào được biết đến với sức mạnh bay tốt nhất?,biology,Bald Eagle,Đại bàng đầu trắng (Bald Eagle) được biết đến với sức mạnh bay tốt nhất trong số các loài vật.
+Nghệ sĩ nào là tác giả của bức tranh "Chuột cống nổi giận"?,art,Banksy,Banksy là nghệ sĩ tạo ra bức tranh "Chuột cống nổi giận."
+Thành phố nào được gọi là "Thủ đô của thế giới"?,nickname,New York,New York được gọi là "Thủ đô của thế giới" do vai trò quan trọng của nó trong lĩnh vực tài chính văn hóa và chính trị.
+Ngày nào được coi là "Ngày Quốc tế Phụ nữ"?,special_day,March 8,Ngày 8 tháng 3 được coi là "Ngày Quốc tế Phụ nữ."
+Quốc gia nào có diện tích đất lớn thứ hai trên thế giới?,geography,Canada,Canada có diện tích đất lớn thứ hai trên thế giới sau Nga.
+Ai là người sáng tạo của kiểu máy tính cá nhân đầu tiên?,technology,Steve Jobs và Steve Wozniak,Steve Jobs và Steve Wozniak là người sáng tạo của kiểu máy tính cá nhân đầu tiên.
+Quốc gia nào nằm ở châu Phi nhưng không có bờ biển?,geography,Lesotho,Lesotho là quốc gia ở châu Phi nhưng không có bờ biển.
+Nước nào là quê hương của pizza?,geography,Italy,Italy là quê hương của pizza.
+Nhà văn nào viết "Harry Potter"?,literature,J.K. Rowling,J.K. Rowling là nhà văn viết "Harry Potter."
+Thành phố nào được biết đến với tên gọi "Thành phố Cảng"? ,nickname,Sydney,Thành phố Sydney Australia được biết đến với tên gọi "Thành phố Cảng."
+Dãy núi nào tạo nên ranh giới giữa châu Á và châu Âu?,geography,Ural Mountains,Dãy núi Ural tạo nên ranh giới giữa châu Á và châu Âu.
+Ngôn ngữ nào được sử dụng nhiều nhất trên Internet?,language,English,Tiếng Anh là ngôn ngữ được sử dụng nhiều nhất trên Internet.
+Ai là người đầu tiên bước chân lên đỉnh núi Everest?,mountaineering,Edmund Hillary và Tenzing Norgay,Edmund Hillary (New Zealand) và Tenzing Norgay (Nepal) là người đầu tiên bước chân lên đỉnh núi Everest.
+Quốc gia nào có tỉ lệ người sử dụng xe đạp nhiều nhất thế giới?,geography,Netherlands,Hà Lan có tỉ lệ người sử dụng xe đạp nhiều nhất thế giới.
+Năm nào diễn ra Cuộc Cách mạng Công nghiệp?,history,18th century,Cuộc Cách mạng Công nghiệp diễn ra chủ yếu trong thế kỷ 18.
+Ai là người sáng lập công ty Tesla Motors?,technology,Elon Musk,Elon Musk là người sáng lập công ty Tesla Motors.
+Nhà nước nào có dạng chính thức là Cộng hòa Xã hội Chủ nghĩa Việt Nam?,politics,Vietnam,Cộng hòa Xã hội Chủ nghĩa Việt Nam là hình thức chính thức của nhà nước Việt Nam.
+Bộ phim nào đoạt giải Oscar cho Phim Xuất sắc nhất năm 2020?,movies,Worldwide,Bộ phim "Parasite" đoạt giải Oscar cho Phim Xuất sắc nhất năm 2020.
+Quốc gia nào nằm ở cực Nam của châu Phi?,geography,South Africa,Quốc gia nằm ở cực Nam của châu Phi là Nam Phi.
+Danh hiệu nào được trao tặng cho những người nổi tiếng trong lĩnh vực âm nhạc?,award,Worldwide,Grammy Awards là danh hiệu được trao tặng cho những người nổi tiếng trong lĩnh vực âm nhạc.
+Ai là tác giả của cuốn sách "To Kill a Mockingbird"?,literature,Harper Lee,Harper Lee là tác giả của cuốn sách "To Kill a Mockingbird."
+Thành phố nào được gọi là "Thủ đô của thế giới"?,nickname,New York,New York được gọi là "Thủ đô của thế giới" do vai trò quan trọng của nó trong lĩnh vực tài chính văn hóa và chính trị.
+Ngày nào được coi là "Ngày Quốc tế Phụ nữ"?,special_day,March 8,Ngày 8 tháng 3 được coi là "Ngày Quốc tế Phụ nữ."
+Ai là người sáng tạo của hệ điều hành Microsoft Windows?,technology,Bill Gates và Paul Allen,Bill Gates và Paul Allen là người sáng tạo của hệ điều hành Microsoft Windows.
+Quốc gia nào có diện tích đất lớn nhất thế giới?,geography,Russia,Nga có diện tích đất lớn nhất thế giới.
+Bức tranh nổi tiếng "Mona Lisa" được vẽ bởi nghệ sĩ nào?,art,Leonardo da Vinci,"Mona Lisa" được vẽ bởi nghệ sĩ Leonardo da Vinci.
+Thành phố nào được biết đến với cái tên "Thành phố không bao giờ ngủ"?,nickname,New York,Thành phố New York được biết đến với cái tên "Thành phố không bao giờ ngủ."
+Ai là nhà sáng lập của Facebook?,technology,Mark Zuckerberg,Mark Zuckerberg là nhà sáng lập của Facebook.
+Quốc gia nào nổi tiếng với những lễ hội Carnaval hoành tráng?,culture,Brazil,Brazil nổi tiếng với lễ hội Carnaval.
+Ngôn ngữ nào được coi là "Ngôn ngữ lập trình của Web"?,programming,Worldwide,JavaScript được coi là "Ngôn ngữ lập trình của Web."
+Dãy núi nào chứa đỉnh núi cao nhất thế giới, Everest?,geography,Himalayas Dãy núi Himalayas chứa đỉnh núi Everest đỉnh núi cao nhất thế giới.
+Năm nào con người đặt chân lên mặt trăng lần đầu tiên?,space,1969,Con người đặt chân lên mặt trăng lần đầu tiên vào năm 1969 trong chuyến bay Apollo 11.
+Quốc gia nào nổi tiếng với đảo Santorini?,geography,Greece,Hy Lạp nổi tiếng với đảo Santorini.
+Nhà văn nào viết cuốn tiểu thuyết "1984"?,literature,George Orwell,George Orwell là tác giả của cuốn tiểu thuyết "1984."
+Nhà văn nào được biết đến với bức tranh "War and Peace"?,literature,Leo Tolstoy,Leo Tolstoy là nhà văn được biết đến với tác phẩm "War and Peace."
+Dòng sông nào là dòng sông dài nhất thế giới?,longest_river,Amazon,Amazon là dòng sông dài nhất thế giới.
+Quốc gia nào nổi tiếng với đảo động Sumo?,culture,Japan,Nhật Bản nổi tiếng với đảo động Sumo.
+Năm nào diễn ra Cuộc Cách mạng Công nghiệp?,history,18th century,Cuộc Cách mạng Công nghiệp diễn ra chủ yếu trong thế kỷ 18.
+Ai là nhà khoa học đầu tiên nói về "Luật Trọng lực"?,science,Isaac Newton,Isaac Newton là nhà khoa học đầu tiên nói về "Luật Trọng lực."
+Thành phố nào được biết đến với tên gọi "Thành phố tình yêu"?,nickname,Paris,Paris được biết đến với tên gọi "Thành phố tình yêu."
+Ngôn ngữ lập trình nào được sử dụng rộng rãi trong phát triển web?,programming,Worldwide,JavaScript là ngôn ngữ lập trình được sử dụng rộng rãi trong phát triển web.
+Quốc gia nào nổi tiếng với tháp đôi Petronas?,geography,Malaysia,Malaysia nổi tiếng với tháp đôi Petronas.
+Nghệ sĩ nào nổi tiếng với bức tranh "The Starry Night"?,art,Vincent van Gogh,Vincent van Gogh là nghệ sĩ nổi tiếng với bức tranh "The Starry Night."
+Nghệ sĩ nào là người sáng tạo của bức tranh "The Persistence of Memory"?,art,Surrealism,Salvador Dalí là người sáng tạo của bức tranh "The Persistence of Memory" thuộc thể loại Nghệ thuật Siêu thực.
+Quốc gia nào nổi tiếng với những đoàn quân Spartan?,history,Greece,Hy Lạp nổi tiếng với đoàn quân Spartan.
+Dãy núi nào chia cắt châu Phi từ phía Bắc đến phía Nam?,geography,Great Rift Valley,Dãy núi Great Rift Valley chia cắt châu Phi từ phía Bắc đến phía Nam.
+Nhà văn nào viết cuốn tiểu thuyết "One Hundred Years of Solitude"?,literature,Gabriel García Márquez,Gabriel García Márquez là tác giả của cuốn tiểu thuyết "One Hundred Years of Solitude."
+Năm nào diễn ra Cuộc Cách mạng Pháp?,history,1789,Cuộc Cách mạng Pháp diễn ra vào năm 1789.
+Ngôn ngữ lập trình Python được tạo ra bởi ai?,programming,Guido van Rossum,Ngôn ngữ lập trình Python được tạo ra bởi Guido van Rossum.
+Quốc gia nào nổi tiếng với lễ hội Diwali?,culture,India,Ấn Độ nổi tiếng với lễ hội Diwali.
+Ai là người sáng tạo của kiểu máy tính cá nhân IBM PC?,technology,IBM,IBM PC được sáng tạo bởi đội ngũ tại IBM.
+Nhà văn nào viết cuốn tiểu thuyết "Pride and Prejudice"?,literature,Jane Austen,Jane Austen là người viết cuốn tiểu thuyết "Pride and Prejudice."
+Thành phố nào là trung tâm tài chính của thế giới?,finance,Worldwide,New York City thường được coi là trung tâm tài chính của thế giới.
+Quốc gia nào nổi tiếng với tháp đôi Petronas?,geography,Malaysia,Malaysia nổi tiếng với tháp đôi Petronas ở Kuala Lumpur.
+Dòng sông nào chảy qua thung lũng Grand Canyon?,river,Colorado,Colorado River chảy qua thung lũng Grand Canyon.
+Năm nào chiếc tàu Titanic gặp nạn?,history,1912,Chiếc tàu Titanic gặp nạn vào năm 1912.
+Ai là người sáng lập Microsoft?,technology,Bill Gates và Paul Allen,Bill Gates và Paul Allen là người sáng lập Microsoft.
+Quốc gia nào nổi tiếng với lễ hội Oktoberfest?,culture,Germany,Đức nổi tiếng với lễ hội Oktoberfest.
+Ai là vị vua nổi tiếng trong lịch sử Ai Cập cổ đại xây dựng đền thờ Giza?,history,Pharaoh Khufu,Pharaoh Khufu là vị vua xây dựng đền thờ Giza.
+Ngôn ngữ lập trình Java được phát triển bởi công ty nào?,programming,Sun Microsystems (hiện nay là Oracle),Java được phát triển bởi Sun Microsystems (hiện nay là Oracle).
+Nhà khoa học nào đã phát triển lý thuyết tương đối rộng?,science,Albert Einstein,Albert Einstein đã phát triển lý thuyết tương đối rộng.
+Thành phố nào được gọi là "Thủ đô ánh sáng"?,nickname,Paris,Paris được gọi là "Thủ đô ánh sáng" vì nó là trung tâm văn hóa và nghệ thuật.
+Nước nào có dân số đông nhất thế giới hiện nay?,geography,China,Trung Quốc có dân số đông nhất thế giới hiện nay.
+Cuốn sách nào là cuốn sách bán chạy nhất mọi thời đại?,literature,Bible,Kinh Thánh (Bible) được cho là cuốn sách bán chạy nhất mọi thời đại.
+Quốc gia nào là quê hương của K-pop?,music,South Korea,Hàn Quốc là quê hương của K-pop.
+Nghệ sĩ nào là người sáng tạo của bức tranh "Guernica"?,art,Pablo Picasso,Pablo Picasso là người sáng tạo của bức tranh "Guernica."
+Thành phố nào được biết đến với biệt danh "Thành phố không bao giờ ngủ"?,nickname,New York,New York được biết đến với biệt danh "Thành phố không bao giờ ngủ."
+Ngày nào được coi là "Ngày Độc lập Hoa Kỳ"?,special_day,July 4,Ngày 4 tháng 7 được coi là "Ngày Độc lập Hoa Kỳ."
+Quốc gia nào nổi tiếng với lễ hội Rio Carnival?,culture,Brazil,Brazil nổi tiếng với lễ hội Rio Carnival.
+Ai là tác giả của cuốn sách "The Great Gatsby"?,literature,Worldwide,"The Great Gatsby" được viết bởi F. Scott Fitzgerald.
+Quốc gia nào nổi tiếng với tháp Eiffel?,geography,France,Pháp nổi tiếng với tháp Eiffel.
+Thành phố nào được gọi là "Thủ đô của thế giới"?,nickname,New York,New York được gọi là "Thủ đô của thế giới."
+Nghệ sĩ nào là người sáng tạo của bức tranh "Starry Night"?,art,Vincent van Gogh,Vincent van Gogh là người sáng tạo của bức tranh "Starry Night."
+Cuộc Cách mạng Công nghiệp diễn ra vào thế kỷ nào?,history,18th century,Cuộc Cách mạng Công nghiệp diễn ra chủ yếu trong thế kỷ 18.
+Quốc gia nào nổi tiếng với lễ hội Oktoberfest?,culture,Germany,Đức nổi tiếng với lễ hội Oktoberfest.
+Thành phố nào là thủ đô của Nhật Bản?,capital_city,Japan,Tokyo là thủ đô của Nhật Bản.
+Năm nào Cuộc đua vũ trụ giữa Hoa Kỳ và Liên Xô diễn ra?,space,20th century,Cuộc đua vũ trụ diễn ra chủ yếu trong thế kỷ 20.
+Bộ phim "Titanic" do đạo diễn nào thực hiện?,movies,James Cameron,Bộ phim "Titanic" được đạo diễn bởi James Cameron.
+Dãy núi nào chứa đỉnh núi Everest?,geography,Himalayas,Dãy núi Himalayas chứa đỉnh núi Everest.
+Nước nào có diện tích đất lớn nhất thế giới?,geography,Russia,Nga có diện tích đất lớn nhất thế giới.
+Quốc gia nào nổi tiếng với đảo Santorini?,geography,Greece,Hy Lạp nổi tiếng với đảo Santorini.
+Bức tranh "Mona Lisa" được vẽ bởi nghệ sĩ nào?,art,Leonardo da Vinci,"Mona Lisa" được vẽ bởi Leonardo da Vinci.
+Ngôn ngữ lập trình Python được tạo ra bởi ai?,programming,Guido van Rossum,Python được tạo ra bởi Guido van Rossum.
+Ai là nhà khoa học đầu tiên nói về "Luật Trọng lực"?,science,Isaac Newton,Isaac Newton là người nói về "Luật Trọng lực" đầu tiên.
+Năm nào diễn ra Cuộc Cách mạng Pháp?,history,1789,Cuộc Cách mạng Pháp diễn ra vào năm 1789.
+Thành phố nào được coi là "Thủ đô ánh sáng"?,nickname,Paris,Paris được gọi là "Thủ đô ánh sáng."
+Quốc gia nào có nền công nghiệp sản xuất ô tô phát triển mạnh nhất thế giới?,industry,Germany,Đức có nền công nghiệp sản xuất ô tô phát triển mạnh nhất thế giới.
+Nước nào nổi tiếng với lễ hội Diwali?,culture,India,Ấn Độ nổi tiếng với lễ hội Diwali.
+Dòng sông nào là dòng sông dài nhất thế giới?,longest_river,Amazon,Amazon là dòng sông dài nhất thế giới.
+Ngôn ngữ lập trình Java được phát triển bởi công ty nào?,programming,Sun Microsystems (hiện nay là Oracle),Java được phát triển bởi Sun Microsystems (hiện nay là Oracle).
+Quốc gia nào nổi tiếng với lễ hội Rio Carnival?,culture,Brazil,Brazil nổi tiếng với lễ hội Rio Carnival.
+Nhà văn nào được biết đến với tác phẩm "Romeo and Juliet"?,literature,William Shakespeare,William Shakespeare là người viết "Romeo and Juliet."
+Thành phố nào là thủ đô của Ý?,capital_city,Italy,Rome là thủ đô của Ý.
+Năm nào diễn ra Chiến tranh Thế giới thứ nhất kết thúc?,history,1918,Chiến tranh Thế giới thứ nhất kết thúc vào năm 1918.
+Cuộc đua vũ trụ giữa Hoa Kỳ và Liên Xô bắt đầu vào năm nào?,space,20th century,Cuộc đua vũ trụ bắt đầu vào thế kỷ 20.
+Quốc gia nào có diện tích đất nhỏ nhất thế giới?,geography,Monaco,Monaco có diện tích đất nhỏ nhất thế giới.
+Nhà văn nào được biết đến với tác phẩm "The Catcher in the Rye"?,literature,J.D. Salinger,J.D. Salinger là người viết "The Catcher in the Rye."
+Ngày nào được coi là "Ngày Độc lập Hoa Kỳ"?,special_day,July 4,Ngày 4 tháng 7 được coi là "Ngày Độc lập Hoa Kỳ."
+Nước nào là quê hương của Mozart?,music,Austria,Áo là quê hương của nhà soạn nhạc Wolfgang Amadeus Mozart.
